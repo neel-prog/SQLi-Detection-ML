@@ -624,7 +624,7 @@ The dataset used for this project was obtained from Kaggle.
 
 **SQL Injection Dataset:**
 
-[:contentReference\[oaicite:0\]{index=0}](https://www.kaggle.com/datasets/sajid576/sql-injection-dataset)
+(https://www.kaggle.com/datasets/sajid576/sql-injection-dataset)
 
 ---
 
